@@ -13,21 +13,21 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: adnanegrb
           template: classic
-          base: repositories
+          base: activity, repositories
           base_indepth: yes
+          base_hireable: no
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_details: lines, percentage
           plugin_languages_limit: 8
-          plugin_languages_threshold: 0%
 
           plugin_topics: yes
           plugin_topics_mode: icons
           plugin_topics_limit: 20
 
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
           config_timezone: Europe/Paris
-          config_display: columns
+          config_order: base.header, isocalendar, languages, topics, base.activity
