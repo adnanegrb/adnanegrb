@@ -1,8 +1,8 @@
-### Hi, I'm Adnane 👋
+### Hi, I'm Adnane GARAB
 
-🎓 L2 Maths & Data Science — Sorbonne Université  
-🤖 Machine Learning · Deep Learning · Quantitative Finance · Algo Trading  
-📍 Paris
+Bachelor student at Sorbonne university ( Mathematics adn data science )   
+Machine Learning · Deep Learning · Quantitative Finance · Algo Trading  
+Paris 75005
 
 
 
