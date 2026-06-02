@@ -22,8 +22,4 @@ Paris 75005
 
 
 
-### 📊 GitHub Metrics
-
-![Metrics](./github-metrics.svg)
-
 </div>
