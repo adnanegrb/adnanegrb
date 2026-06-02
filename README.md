@@ -1,17 +1,9 @@
-# Hi, I'm Adnan 👋
+### Hi, I'm Adnane 👋
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)
-![Quant](https://img.shields.io/badge/Trading-Quantitative-purple?style=flat-square)
-
-Quantitative Trader | ML Engineer | Python Developer
-
----
-
-## Featured Projects
-
-- **Statistical Arbitrage Backtester** - Quant trading system
-- **PlasticSense** - AI plastic detection
+🎓 L2 Maths & Data Science — Sorbonne Université  
+🤖 Machine Learning · Deep Learning · Quantitative Finance · Algo Trading  
+📍 Paris
 
 ---
 
-![GitHub Metrics](https://metrics.lecoq.io/adnanegrb?template=classic&config.timezone=Europe/Paris)
+![Metrics](./github-metrics.svg)
