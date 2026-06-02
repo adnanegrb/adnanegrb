@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi, I'm Adnane GARAB
 
 Bachelor student at Sorbonne university ( Mathematics adn data science )   
@@ -15,9 +16,13 @@ Paris 75005
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
 
 ### 📊 GitHub Metrics
 
 ![Metrics](./github-metrics.svg)
+
+</div>
