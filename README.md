@@ -14,6 +14,6 @@ I'm a mathematics and data science student passionate about quantitative finance
 
 <img src="https://skillicons.dev/icons?i=python,cpp,latex,pytorch,tensorflow&perline=5" height="80"/>
 <br><br>
-<img src="https://skillicons.dev/icons?i=sklearn,jupyter,git,vscode&perline=4" height="80"/>
+<img src="https://skillicons.dev/icons?i=sklearn,git,vscode&perline=3" height="80"/>
 
 </div>
