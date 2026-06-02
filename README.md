@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Adnan 👋
 
-<!--
-**adnanegrb/adnanegrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Quantitative Trader | ML Engineer | Python Developer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 About Me
+
+Building algorithmic trading systems and machine learning solutions.
+
+---
+
+## 💼 Featured Projects
+
+### 📊 Statistical Arbitrage Backtester
+Professional backtester with Johansen cointegration, Kelly Criterion sizing, and walk-forward validation.
+
+**Tech:** Python, NumPy, SciPy, Pandas
+
+### 🤖 PlasticSense
+AI-powered plastic waste detection using computer vision.
+
+**Tech:** Python, TensorFlow, OpenCV
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python
+- **Finance:** Quantitative Analysis, Backtesting, Algorithmic Trading
+- **ML/AI:** Computer Vision, Deep Learning
+- **Data:** NumPy, Pandas, SciPy, Scikit-learn
+
+---
+
+## 📫 Get in Touch
+
+- Email: [ton email]
+- LinkedIn: [ton profil]
